@@ -1,0 +1,22 @@
+{
+  "name": "ofn-css",
+  "version": "1.0.0",
+  "description": "A CSS library for Outdoor Fun Network.",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutdoorFunNetwork/ofn-css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Pat McGhen <patrickmcghen@gmail.com> (https://github.com/pmcghen)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OutdoorFunNetwork/ofn-css/issues"
+  },
+  "homepage": "https://github.com/OutdoorFunNetwork/ofn-css#readme"
+}

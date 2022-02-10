@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.1em;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  width: 80%;
+}
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
+
+.grid {
+  display: grid;
+}
+
+.flex {
+  display: flex;
+}
+
+.reverse {
+  flex-flow: row-reverse;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.accessible-text {
+  position: absolute;
+  top: -9999rem;
+  height: 1px;
+  width: 1px;
+}
