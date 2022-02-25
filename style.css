@@ -34,14 +34,23 @@ body {
 
 .flex {
   display: flex;
+  flex-wrap: wrap;
 }
 
-.reverse {
-  flex-flow: row-reverse;
+.around {
+  justify-content: space-around;
 }
 
 .between {
   justify-content: space-between;
+}
+
+.even {
+  justify-content: space-evenly;
+}
+
+.reverse {
+  flex-flow: row-reverse;
 }
 
 .accessible-text {
